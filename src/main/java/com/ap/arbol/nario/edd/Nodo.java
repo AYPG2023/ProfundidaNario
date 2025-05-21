@@ -1,4 +1,4 @@
-package com.ap.arbol.nario.model;
+package com.ap.arbol.nario.edd;
 
 import java.util.List;
 
