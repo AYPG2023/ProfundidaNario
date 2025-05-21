@@ -1,6 +1,6 @@
 package com.ap.arbol.nario.service;
 
-import com.ap.arbol.nario.edd.Nodo;
+import com.ap.arbol.nario.eddLineales.Nodo;
 import org.junit.Before;
 import org.junit.Test;
 
