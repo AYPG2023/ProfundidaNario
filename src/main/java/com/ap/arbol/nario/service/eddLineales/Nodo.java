@@ -1,4 +1,4 @@
-package com.ap.arbol.nario.eddLineales;
+package com.ap.arbol.nario.service.eddLineales;
 
 import java.util.List;
 
